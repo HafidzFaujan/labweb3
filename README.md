@@ -12,3 +12,5 @@
 ![Cuplikan layar 2024-10-15 160522](https://github.com/user-attachments/assets/cc8d38fb-6dbd-44e5-bb3d-a83a5cb70865)
 
 ![Cuplikan layar 2024-10-15 160552](https://github.com/user-attachments/assets/4ea1bb8c-1234-4817-a35b-2057013c29c8)
+
+![Cuplikan layar 2024-10-15 184047](https://github.com/user-attachments/assets/4112f105-55ab-43ad-96f7-1fd32ee6501d)
