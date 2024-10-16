@@ -1,5 +1,6 @@
 # labweb3
 <img width="959" alt="Cuplikan layar 2024-10-15 072246" src="https://github.com/user-attachments/assets/05a56165-e422-4f23-927b-f12a0ffad393">
+membuat list dan order list berisikan matakuliah dengan angka 1 sampai 3
 
 ![Cuplikan layar 2024-10-15 072348](https://github.com/user-attachments/assets/328bd5b7-8331-410b-b39c-e223fd3d3579)
 
